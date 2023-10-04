@@ -8,19 +8,14 @@
 ayoubBibo@github:~$ ./welcomeToMyProfile.sh
 ```
 
-<img align="left" src="img/softwareEngineer.webp" alt="AI generated software engineer image" width="320" 
-      style="margin-right: 16px; margin-bottom: 20px; border-radius: 6px;
-      box-shadow: rgba(225,12,230, 0.2) 0px 7px 29px 0px;
-      "/>
+<img align="left" src="img/softwareEngineer.webp" alt="AI generated software engineer image" width="290"/>
 
-<div style="margin-bottom: 7px;">
+<div>
     <a href="https://www.linkedin.com/in/ayoubhakemi" >
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 32px; border-radius: 4px; 
-      box-shadow: rgba(61,133,198, 0.2) 0px 7px 29px 0px;" alt="Linkedin Link">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=32 alt="Linkedin Link">
     </a>
     <a href="mailto:hakemi.ayoub.01@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height: 32px; border-radius: 4px; box-shadow: rgba(244,67,54, 0.2) 0px 7px 29px 0px; margin-left: 4px
-      " alt="gmail link">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=32 alt="gmail link">
     </a>
 </div>
 
